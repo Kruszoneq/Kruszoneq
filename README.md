@@ -3,7 +3,7 @@
 IT technician, Apple enthusiast, and a fan of vintage Macs.
 
 I believe in open source, openness, and technical integrity.
-I'm not a fan of turning every useful tool into a subscription —
+I'm not a fan of turning every useful tool into a subscription,
 especially when its core features should be accessible to everyone.
 
 ## What I'm building
